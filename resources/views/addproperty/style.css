@@ -1,0 +1,152 @@
+/* importação da fonte do google fonts */ 
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+
+body{
+	height: 100%; 
+	width: 100%;
+	font-family: 'Noto Sans', sans-serif;
+  background-image: url(../img/intro-bg.jpg); 
+  background-repeat: no-repeat;
+  max-width: 100%;
+ 
+}
+
+
+.contact_form{	
+	width: 595px; 
+  height: 1100px;
+  margin: -16px auto;
+	border-radius: 60px; 
+	text-align: left; 
+	padding-top: 0px;
+	padding-bottom: 20px;  
+  background-color: #fbfbfb; 
+  padding-left: 30px; 
+}
+
+
+input{
+	background-color: #fbfbfb; 
+	width: 508px; 
+	height: 40px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #5d57ec; 
+	margin-top: 0px;   
+	padding-left: 40px;
+  margin-bottom: 20px; 
+  
+}
+
+
+textarea{
+  background-color: #fbfbfb; 
+	width: 536px; 
+	height: 60px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #5d57ec; 
+	margin-top: 10px;  
+	padding-left: 10px;
+  margin-bottom: 20px; 
+  padding-top: 15px; 
+}
+
+
+label{
+  display: block; 
+	float: center; 	
+}
+
+
+button{
+	align-items: center;
+	height: 44px; 
+	padding-left: 5px;
+	padding-right: 5px; 	
+	margin-bottom: 20px; 
+	margin-top: -8px; 	
+	text-transform: uppercase;
+	background-color: #5d57ec; 
+	border-color: #5d57ec; 
+	border-style: solid; 
+	border-radius: 10px;	
+	width: 554px;   
+  cursor: pointer;
+}
+
+
+button p{
+	color: #fff; 
+	color: #fff;
+    align-content: center;
+    align-items: center;
+    /* margin: initial; */
+    margin-left: 15px;
+}
+
+
+span{
+	color: #5d57ec; 
+}
+
+
+.aviso{
+	font-size: 13px;  
+	color: #0e0e0e;  
+}
+
+
+h1{
+	font-size: 35px;  
+	text-align: center; 
+	padding-bottom: 0px;
+	padding-top: 30px; 
+	color: #5d57ec;
+}
+
+
+h3{
+	font-size: 14px; 
+	padding-bottom: 30px;
+	color: #0e0e0e;   
+}
+
+
+p{
+	font-size: 14px; 
+	color: #0e0e0e; 
+}
+
+
+::-webkit-input-placeholder {
+ color: #a8a8a8;
+}
+
+
+::-webkit-textarea-placeholder {
+ color: #a8a8a8;
+}
+
+
+.formulario input:focus{
+	outline:0;
+	border: 1px solid #8c8291;
+}
+
+
+.formulario textarea:focus{
+	outline:0;
+	border: 1px solid #0e041a;
+}
+
+.form-select{
+	width: 100px;
+	border: 1px solid #5d57ec ;
+	height: 30px;
+}
+
+/* created by magda pimentel, may 2017 */

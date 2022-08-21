@@ -1,0 +1,35 @@
+Starting Laravel development server: http://127.0.0.1:8000
+[Sun Mar 27 15:01:31 2022] Failed to listen on 127.0.0.1:8000 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8001
+[Sun Mar 27 15:01:32 2022] Failed to listen on 127.0.0.1:8001 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8002
+[Sun Mar 27 15:01:32 2022] Failed to listen on 127.0.0.1:8002 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8003
+[Sun Mar 27 15:01:33 2022] Failed to listen on 127.0.0.1:8003 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8004
+[Sun Mar 27 15:01:33 2022] PHP 7.4.28 Development Server (http://127.0.0.1:8004) started
+Starting Laravel development server: http://127.0.0.1:8000
+[Sun Mar 27 15:01:40 2022] Failed to listen on 127.0.0.1:8000 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8001
+[Sun Mar 27 15:01:40 2022] Failed to listen on 127.0.0.1:8001 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8002
+[Sun Mar 27 15:01:41 2022] Failed to listen on 127.0.0.1:8002 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8003
+[Sun Mar 27 15:01:41 2022] Failed to listen on 127.0.0.1:8003 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8004
+Starting Laravel development server: http://127.0.0.1:8000
+[Sun Mar 27 15:01:51 2022] Failed to listen on 127.0.0.1:8000 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8001
+[Sun Mar 27 15:01:51 2022] Failed to listen on 127.0.0.1:8001 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8002
+[Sun Mar 27 15:01:52 2022] Failed to listen on 127.0.0.1:8002 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8003
+[Sun Mar 27 15:01:52 2022] Failed to listen on 127.0.0.1:8003 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8004
+[Sun Mar 27 15:01:53 2022] Failed to listen on 127.0.0.1:8004 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8005
+[Sun Mar 27 15:01:53 2022] PHP 7.4.28 Development Server (http://127.0.0.1:8005) started
+Starting Laravel development server: http://127.0.0.1:8006
+Starting Laravel development server: http://127.0.0.1:8005
+[Sun Mar 27 15:02:14 2022] PHP 7.4.28 Development Server (http://127.0.0.1:8006) started
+[Sun Mar 27 15:02:14 2022] PHP 7.4.28 Development Server (http://127.0.0.1:8005) started
